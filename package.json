@@ -1,5 +1,5 @@
 {
-  "name": "waste-management-server",
+  "name": "waste-management-backend",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -13,7 +13,9 @@
     "dotenv": "^16.3.1",
     "multer": "^1.4.5-lts.1",
     "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^9.0.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }
